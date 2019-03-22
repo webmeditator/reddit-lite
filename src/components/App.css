@@ -1,0 +1,8 @@
+.loading__data {
+    text-align: center;
+}
+
+.errorMsg {
+    text-align: center;
+    color: #d22233;
+}
